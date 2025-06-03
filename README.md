@@ -2,6 +2,8 @@
 
 This project implements an Artificial Neural Network (ANN) for classification tasks using Python. The application is built with Streamlit, providing an interactive web interface for users to interact with the model.
 
+https://ann-classification-test.streamlit.app/
+
 ## Project Structure
 
 - `app.py`: Main Streamlit application file
@@ -91,6 +93,7 @@ Follow these steps to deploy your application to Streamlit.io:
    - Click "Deploy"
 
 3. Your app will be deployed and you'll receive a unique URL to access it
+Try - https://ann-classification-test.streamlit.app/
 
 ## Requirements
 
